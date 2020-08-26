@@ -15,11 +15,9 @@ class Gallery extends React.Component{
                         placeholder="Enter image URL"/>
                     <button>Add</button>
                 </div>
-
-
             </div>
-        )
-    }
+        );
+    };
 }
 
 export default Gallery
