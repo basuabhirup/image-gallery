@@ -1,6 +1,6 @@
 {
   "name": "image-gallery",
-  "homepage": "http://basuabhirup.github.io/image-gallery/"
+  "homepage": "http://basuabhirup.github.io/image-gallery/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
